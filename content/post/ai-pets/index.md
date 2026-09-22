@@ -1,6 +1,6 @@
 ---
 title: 给你的 Claude Code\Codex 等 AI Coding Agent装个桌宠吧
-date: 2020-09-22
+date: 2026-09-22
 tags:
   - AI
 description: 用 clawd-on-desk 给 Claude Code、Codex 等 AI Agent 装个桌宠：关联 Agent、导入 Codex Pet 包换成小八形象，还能自定义任务完成与权限提示音。

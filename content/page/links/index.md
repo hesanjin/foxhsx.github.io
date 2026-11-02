@@ -4,9 +4,9 @@ layout: links
 slug: 'links'
 description: '有需要的小伙伴可以联系我添加友链～'
 links:
-  - title: GitHub
-    description: The world's largest software development platform.
-    website: https://github.com
+  - title: 你的山头
+    description: 世界上最好的设计，UI/UX 工程师，独立开发者.
+    website: https://zhouti.design
     color: "#24292e"
   - title: TypeScript
     description: A typed superset of JavaScript that compiles to plain JavaScript.
